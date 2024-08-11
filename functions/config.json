@@ -1,0 +1,19 @@
+{
+	"app_name": "Your App Name",
+	"app_description": "Taxi booking, Trip alerts and information, Driver and passenger management",
+	"app_identifier": "com.koteride.taxi",
+	"ios_app_version": "1.0.0",
+	"android_app_version": "100",
+	"firebaseProjectId": "koteride",
+	"googleApiKeys": {
+		"ios": "AIzaSyAB9RpTlnWOhRawAlmSbICdt6czu22qy7o",
+		"android": "AIzaSyAB9RpTlnWOhRawAlmSbICdt6czu22qy7o",
+		"web": "AIzaSyAB9RpTlnWOhRawAlmSbICdt6czu22qy7o",
+		"server": "AIzaSyAB9RpTlnWOhRawAlmSbICdt6czu22qy7o"
+	},
+	"expo_owner": "maxdare21",
+	"expo_slug": "koteride",
+	"expo_project_id": "2150fe3c-a038-48a9-8229-647602c1a4ab",
+	"admin_email": "ekote1927@gmail.com",
+	"purchase_code": "6668a43c-091a-48ea-a953-4645e4e26a3a"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275683535602",
+    "firebase_url": "https://koteride-default-rtdb.firebaseio.com",
+    "project_id": "koteride",
+    "storage_bucket": "koteride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275683535602:android:57a755b99a68b1bd63fe6b",
+        "android_client_info": {
+          "package_name": "com.koteride.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275683535602-ce9kp58p97e4c20h2crmetfkii7qrna2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHXzVde8fIVPgqfi3PvOADgM7bO4th6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275683535602-ce9kp58p97e4c20h2crmetfkii7qrna2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275683535602-iu4q97bd3ltis1dlr2kv5mh0j4b1i7vv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.koteride.taxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
