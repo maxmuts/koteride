@@ -1,5 +1,5 @@
 module.exports.AppConfig = {
-    app_name: 'Your App Name', 
+    app_name: 'Koteride taxi App', 
     app_description: 'Taxi booking, Trip alerts and information, Driver and passenger management', 
     app_identifier: 'com.koteride.taxi', 
     ios_app_version: '1.0.0', 
