@@ -70,6 +70,7 @@ export default function PrivacyPolicy(props) {
             <p className={isRTL === "rtl" ? classes.rtlDescription : classes.ltrDescription}  >
                 {t('privacy_policy_info_para3')}
             </p>
+           
             <p className={isRTL === "rtl" ? classes.rtlDescription : classes.ltrDescription}  >
                 {t('privacy_policy_info_para4')}
             </p>
@@ -83,8 +84,31 @@ export default function PrivacyPolicy(props) {
                 <li>
                     {t('privacy_policy_info_list7')}
                 </li>
-                
+                <li>
+                    {t('privacy_policy_info_list8')}
+                </li>
               </ul> 
+              <p className={isRTL === "rtl" ? classes.rtlDescription : classes.ltrDescription}  >
+                {t('privacy_policy_info_para5')}
+            </p>
+            <ul className={isRTL === "rtl" ? classes.rtlDescription : classes.ltrDescription}style={{direction:isRTL === 'rtl'?'rtl':'ltr'}}>
+                <li>
+                    {t('privacy_policy_info_list9')}
+                </li>
+                <li>
+                    {t('privacy_policy_info_list10')}
+                </li>
+                <li>
+                    {t('privacy_policy_info_list11')}
+                </li>
+                <li>
+                    {t('privacy_policy_info_list12')}
+                </li>
+                <li>
+                    {t('privacy_policy_info_list13')}
+                </li>
+              </ul> 
+
             <p className={isRTL === "rtl" ? classes.rtlDescription : classes.ltrDescription}  >
                 {t('privacy_policy_info_para5')}
             </p>
